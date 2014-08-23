@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Where Is My Motor</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_txt_park">Park</string>
+    <string name="btn_txt_zoom_to_cur_pos">ZoomToMe</string>
+    <string name="btn_txt_zoom_to_motor">ZoomToMotor</string>
+    <string name="btn_txt_pick_up">Pick up</string>
+    <string name="about_me">About me</string>
+    <string name="quit_txt">Quit</string>
+    <string name="about_me_title">About</string>
+    <string name="about_me_content">Thanks for download my app.\nIf you have any advices, please let me know. test123@gmail.com</string>
+    <string name="location_changed">Location changed!</string>
+    <string name="location_error">Can\'t receive current location!</string>
+    <string name="title_activity_about_dialog">AboutDialog</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="location_get">Searching GPS</string>
+
+</resources>
